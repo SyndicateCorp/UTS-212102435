@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS-212102435</string>
+    <string name="JK">Género</string>
+    <string-array name="jenisKelamin">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+    <string name="informasi">Información</string>
+</resources>

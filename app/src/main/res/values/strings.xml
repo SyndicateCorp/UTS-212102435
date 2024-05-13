@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS-212102435</string>
+    <string name="JK">Jenis Kelamin</string>
+    <string-array name="jenisKelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string name="informasi">Informasi</string>
+</resources>
